@@ -6,7 +6,7 @@ subtitle: <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
 
 profile:
   align: right
-  image: KaiFeng_butter_beer.jpg
+  image: kaixuan.jpg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>Mingzhai Building</p>
